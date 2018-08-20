@@ -1,6 +1,5 @@
 
 if isw ~= 1
-CGtoDGarrays
 CGtoDGPBCarrays
 nelLP = nelL;
 nelRP = nelR;
